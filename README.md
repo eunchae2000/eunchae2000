@@ -1,7 +1,8 @@
 ### 2️⃣0️⃣2️⃣1️⃣
 *Reddot Design Awards/ Winner | Teddy Buddy**<br>
 - Role: 아이디어 도출 및 프로세스 기술
-- Link: https://www.red-dot.org/ko/project/teddy-buddy-a-friend-of-long-term-hospitalised-child-patients-55427
+- Link: https://www.red-dot.org/ko/project/teddy-buddy-a-friend-of-long-term-hospitalised-child-patients-55427<br>
+
 **쇼미더동서AI 경진대회 / 위치기반 온-오프라인 생활필수품 가격비교 어플리케이션 / 장려상**<br>
 **고교연계 진로 탐색 캠프(배정고) / 보조강사**<br>
 2021년도 학부생 연구프로그램(URP) / 생성적 적대 신경망을 활용한 다른 그림 찾기 생성 시스템 개발 연구<br>
