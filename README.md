@@ -20,7 +20,8 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2393E52F&title_bg=%2300A41B&icon=github.svg&icon_color=%23FFFFFF&title=visit&edge_flat=false)](https://hits.seeyoufarm.com)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=haesoo9410" height="165">
+
 
 <!--
 **eunchae2000/eunchae2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
