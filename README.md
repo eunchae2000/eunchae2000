@@ -25,7 +25,7 @@
 <br>
 <img src="http://mazandi.herokuapp.com/api?handle=tldjs3651&theme=warm"/>
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tldjs3651)](https://github.com/tldjs3651/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eunchae2000)](https://github.com/eunchae2000/github-readme-stats)
 
 Github stats
 <!--
