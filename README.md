@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/badge/Node.js-07D000?style=flat-square&logo=Node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-FFAB00?style=flat-square&logo=Java&logoColor=white"/>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhaesoo9410&count_bg=%23EB8B10&title_bg=%23684327&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://github.com/haesoo9410)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2393E52F&title_bg=%2300A41B&icon=github.svg&icon_color=%23FFFFFF&title=visit&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!--
 **eunchae2000/eunchae2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
