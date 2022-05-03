@@ -12,7 +12,7 @@
 ### 2️⃣0️⃣2️⃣0️⃣ 
 **2020 DSU 창업아이디어 경진대회 / 알레르기가 있는 사람들을 위한 정보 카페앱 '알파카' / 대상**
 
-<img src="https://img.shields.io/badge/Python-FFCA28?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-6351FF?style=flat-square&logo=Python&logoColor=white"/>
 
 
 
