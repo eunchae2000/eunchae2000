@@ -24,7 +24,10 @@
 <img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tldjs3651">
 <br>
 <img src="http://mazandi.herokuapp.com/api?handle=tldjs3651&theme=warm"/>
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tldjs3651)](https://github.com/tldjs3651/github-readme-stats)
 
+Github stats
 <!--
 **eunchae2000/eunchae2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
