@@ -15,10 +15,10 @@
 **2020 DSU 창업아이디어 경진대회 / 알레르기가 있는 사람들을 위한 정보 카페앱 '알파카' / 대상**
 
 <DIV style ="text-align:center";>
-  <img src="https://img.shields.io/badge/Python-4935FF?style=flat-square&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-07D000?style=flat-square&logo=Node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-FFAB00?style=flat-square&logo=Java&logoColor=white"/>
-  </DIV>
+  <img src="https://img.shields.io/badge/Python-4935FF?style=flat-square&logo=Python&logoColor=white"/> <br>
+  <img src="https://img.shields.io/badge/Node.js-07D000?style=flat-square&logo=Node.js&logoColor=white"/> <br>
+  <img src="https://img.shields.io/badge/Java-FFAB00?style=flat-square&logo=Java&logoColor=white"/> <br>
+ </DIV>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2393E52F&title_bg=%2300A41B&icon=github.svg&icon_color=%23FFFFFF&title=visit&edge_flat=false)](https://hits.seeyoufarm.com)
 
@@ -27,7 +27,6 @@
 <pr>
 <img src="http://mazandi.herokuapp.com/api?handle=tldjs3651&theme=warm"/>
 <pr>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eunchae2000)](https://github.com/eunchae2000/github-readme-stats)
 <!--
 **eunchae2000/eunchae2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
