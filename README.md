@@ -14,21 +14,24 @@
 ### 2️⃣0️⃣2️⃣0️⃣ 
 **2020 DSU 창업아이디어 경진대회 / 알레르기가 있는 사람들을 위한 정보 카페앱 '알파카' / 대상**
 
+<a>
+  📝 Studying 📝
+</a>
+<br>
 <DIV style ="text-align:center";>
-  <img src="https://img.shields.io/badge/Python-4935FF?style=flat-square&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-07D000?style=flat-square&logo=Node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-FFAB00?style=flat-square&logo=Java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-FF9900?style=flat-square&logo=JavaScript&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML-FF0000?style=flat-square&logo=HTML&logoColor=white">
-  <img src="https://img.shields.io/badge/css-FF33FF?style=flat-square&logo=css&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-4935FF?style=flat-square&logo=Python&logoColor=white"/> <pr>
+  <img src="https://img.shields.io/badge/Node.js-07D000?style=flat-square&logo=Node.js&logoColor=white"/> <pr>
+  <img src="https://img.shields.io/badge/Java-FFAB00?style=flat-square&logo=Java&logoColor=white"/> <pr>
+  <img src="https://img.shields.io/badge/JavaScript-FF9900?style=flat-square&logo=JavaScript&logoColor=white"> <pr>
+  <img src="https://img.shields.io/badge/HTML-FF0000?style=flat-square&logo=HTML5&logoColor=white"> <pr>
+  <img src="https://img.shields.io/badge/CSS-FF33FF?style=flat-square&logo=CSS3&logoColor=white"> <pr>
+  <img src="https://img.shields.io/badge/PyTorch-4169E1?style=flat-square&logo=PyTorch&logoColor=white">
  </DIV>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2393E52F&title_bg=%2300A41B&icon=github.svg&icon_color=%23FFFFFF&title=visit&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=eunchae2000" height="165">
 <img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tldjs3651">
-<pr>
-<img src="http://mazandi.herokuapp.com/api?handle=tldjs3651&theme=warm"/>
 <pr>
 <!--
 **eunchae2000/eunchae2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
