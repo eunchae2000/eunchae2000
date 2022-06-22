@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=cocoball&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=cocoball&fontSize=100)
 
 ### 2️⃣0️⃣2️⃣1️⃣
 *Reddot Design Awards/ Winner | Teddy Buddy**<br>
