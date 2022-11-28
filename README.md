@@ -1,8 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=cocoball&fontSize=100)
-### 2️⃣ 0️⃣ 2️⃣ 2️⃣
-
-
-
 ### 2️⃣ 0️⃣ 2️⃣ 1️⃣
 *Reddot Design Awards/ Winner | Teddy Buddy**<br>
 - Role: 아이디어 도출 및 프로세스 기술
